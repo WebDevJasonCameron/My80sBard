@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Have you every wanted to create a character that has an encyclopedic knowledge of 80's song lyrics? They can't help yell out "I'm B-B-bad to the B-B-bone" when another character asks them why they try to do some kind of dumb seductive persuasion on another innocent maiden within the campaign? No? Well, this might not be the application for you. For all you other amazing writers and DnD players, welcome. This completely useless application is an homage to 80's rock hits, and my need to build an overly complicate tool for the purpose of bringing to life "My 80's Bard."
+Have you every wanted to create a character that has an encyclopedic knowledge of 80's song lyrics? They can't help yell out "I'm B-B-bad to the B-B-bone" when another character asks them why they tried to do some kind of dumb seductive persuasion on another innocent maiden within the campaign? No? Well, this might not be the application for you. For all you other amazing writers and DnD players, welcome. This completely useless application is an homage to 80's rock hits, and my need to build an overly complicate tool for the purpose of bringing to life "My 80's Bard."
 
 ## Goals
 
@@ -11,7 +11,7 @@ Have you every wanted to create a character that has an encyclopedic knowledge o
 1. Collect Massive Amounts of 80's Song Lyrics within a Single DB
 2. Build a Useful Quotable Lyric Library for my 80's Bard
 3. Provide related data for those asking and music to set the ambiance during our campaign
-4. Record meta data on when and how library provided relaxant data
+4. Record meta data on when and how the library provided relevant data
 
 ### Personal Dev Goals
 
