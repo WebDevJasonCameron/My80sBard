@@ -54,3 +54,7 @@ Well, it's not so much a plan as a direction. The following sub-items are essent
 - [ ] Search by Tag
 - [ ] Search by Quote Last Used
 - [ ] Use Quote (Play song/video with link)
+
+### Current DB Plan
+
+<img src="Planning_Phase/My80sBard_DB_Plan.jpg" alt="Current DB Plan" />
